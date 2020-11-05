@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f33027-9c0d-497b-b189-c263ab87e6c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1f08BC3eCBkyhbKgYg4XHq5PCEo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\axiang\Downloads\classify1\kmedoids" />
+      <recent name="C:\Users\axiang\Downloads\classify1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Cilin" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_261\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Cilin" />
+      <module name="kmedoids" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f33027-9c0d-497b-b189-c263ab87e6c4" name="Default Changelist" comment="" />
+      <created>1595343511771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595343511771</updated>
+      <workItem from="1595692964213" duration="57000" />
+      <workItem from="1595700282416" duration="40000" />
+      <workItem from="1595700333442" duration="20000" />
+      <workItem from="1595700367644" duration="115000" />
+      <workItem from="1595700504082" duration="4656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="0" width="658" height="680" key="#Cilin" timestamp="1595700961839">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="318" y="0" width="658" height="680" key="#Cilin/0.0.1280.680@0.0.1280.680" timestamp="1595700961839" />
+    <state x="35" y="7" width="1089" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595701019889">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="35" y="7" width="1089" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595701019889" />
+    <state x="276" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595700812876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="276" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1595700812876" />
+    <state x="165" y="190" key="FileChooserDialogImpl" timestamp="1595822216677">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="165" y="190" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595822216677" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1595822218477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595822218477" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1595822218477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595822218477" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1595822218477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595822218477" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1595822218477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595822218477" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1595700945698">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595700945698" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kmedoids$Cilin.ic" NAME="Cilin Coverage Results" MODIFIED="1595701095743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
